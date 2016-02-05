@@ -1,0 +1,13 @@
+{
+  "name": "paper-elements",
+  "private": true,
+  "dependencies": {
+    "x-drawer": "puneetjindal/x-drawer#master",
+    "x-drawer-layout": "puneetjindal/x-drawer-layout#master",
+    "x-header": "puneetjindal/x-header#master",
+    "x-header-layout": "puneetjindal/x-header-layout#master",
+    "x-scrim": "puneetjindal/x-scrim#master",
+    "x-scrollpos-control": "puneetjindal/x-scrollpos-control#master",
+    "x-toolbar": "puneetjindal/x-toolbar#master"
+  }
+}
